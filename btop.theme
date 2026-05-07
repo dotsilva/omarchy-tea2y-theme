@@ -2,7 +2,7 @@
 theme[main_bg]="#1E1E1E"
 
 # Main text color
-theme[main_fg]="#E0E0E0"
+theme[main_fg]="#D4D4D4"
 
 # Title color for boxes
 theme[title]="#7E7EFF"
@@ -17,7 +17,7 @@ theme[selected_bg]="#38D5D5"
 theme[selected_fg]="#1E1E1E"
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#979797"
+theme[inactive_fg]="#858585"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
 theme[proc_misc]="#38D5D5"

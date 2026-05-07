@@ -5,8 +5,8 @@
 @define-color red #F34E4E;
 @define-color blue #7E7EFF;
 @define-color cyan #38D5D5;
-@define-color black #979797;
-@define-color white #E0E0E0;
+@define-color black #858585;
+@define-color white #D4D4D4;
 
 window#waybar * {
   font-weight: 900;

@@ -8,32 +8,29 @@ omarchy-theme-install https://github.com/dotsilva/omarchy-karpos-theme.git
 
 ## UI color semantics
 
-* *bg0 (`#1E1E1E`;*
+* *bground (`#1E1E1E`)*
   * Deep background.
 
-* *bg1 (`#303030`)*
-  * Helper background (when something needs to stands out over the deep one).
-
-* *Black (`#979797`)*
+* *black (`#858585`)*
   * UI: Moot text, moot symbols and moot glyphs. Never background.
 
-* *Red (`#F34E4E`)*
+* *red (`#F34E4E`)*
   * UI: Critical negative feedback.
 
-* *Green (`#36DB36`)*
+* *green (`#36DB36`)*
   * UI: Positive feedback.
 
-* *Yellow (`#CFCF2A`)*
+* *yellow (`#CFCF2A`)*
   * UI: Non-critical negative feedback.
 
-* *Blue (`#7E7EFF`)*
+* *blue (`#7E7EFF`)*
   * UI: Definitions.
 
-* *Magenta/Purple (`#E742E7`)*
+* *magenta (`#E742E7`)*
   * UI: Signals, symbols, glyphs, shortcuts. Never normal strings and numbers.
 
-* *Cyan (`#38D5D5`)*
+* *cyan (`#38D5D5`)*
   * UI: Focus, active user interaction.
 
-* *White (`#E0E0E0`)*
+* *white (`#D4D4D4`)*
   * UI: Normal strings and numbers.
