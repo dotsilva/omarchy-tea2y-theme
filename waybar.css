@@ -53,6 +53,9 @@ window#waybar #custom-notification-silencing-indicator.active {
   color: @red;
 }
 
+/* weather */
+window#waybar #custom-weather {color: @white}
+
 tooltip {
   background-color: @background;
   border: 3px solid @magenta;
