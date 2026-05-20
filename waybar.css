@@ -32,15 +32,11 @@ window#waybar #custom-update {color: @green;}
 /* 🌐 NETWORK (green=Connected, red=Off/Searching) */
 window#waybar #network.wifi,
 window#waybar #network.ethernet {color: @green;}
-window#waybar #network.disconnected { color: @red; }
 window#waybar #network { color: @red; }
 
 /*  BLUETOOTH (green=Connected, yellow=On/Searching, Red=Off/Dead) */
 window#waybar #bluetooth.connected { color: @green; }
-window#waybar #bluetooth { color: @yellow; }
-window#waybar #bluetooth.disconnected { color: @red; }
-window#waybar #bluetooth.off,
-window#waybar #bluetooth.disabled { color: @red; }
+window#waybar #bluetooth { color: @red; }
 
 /*  AUDIO (Variable: cyan=Active, Red=Muted) */
 window#waybar #pulseaudio { color: @green; }
