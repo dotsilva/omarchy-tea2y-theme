@@ -1,7 +1,7 @@
-# xterm9
+# base9
 
-![xterm9 theme preview](https://raw.githubusercontent.com/dotsilva/omarchy-xterm9-theme/master/preview.png)
+![base9 theme preview](https://raw.githubusercontent.com/dotsilva/omarchy-base9-theme/master/preview.png)
 
 ```bash
-omarchy theme install https://github.com/dotsilva/omarchy-xterm9-theme.git
+omarchy theme install https://github.com/dotsilva/omarchy-base9-theme.git
 ```
