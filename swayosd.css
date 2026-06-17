@@ -1,7 +1,7 @@
-@define-color background-color #1E1E1E;
+@define-color background-color #1E1E0F;
 @define-color border-color #E742E7;
-@define-color label #D4D4D4;
-@define-color image #D4D4D4;
+@define-color label #D4D4B4;
+@define-color image #D4D4B4;
 @define-color progress #E742E7;
 
 window#osd {
@@ -14,5 +14,5 @@ progressbar {
     border-radius: 0px;
   }
 trough {
-    background: #1E1E1E;
+    background: #1E1E0F;
 }

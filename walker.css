@@ -1,9 +1,9 @@
-@define-color selected-text #1E1E1E;
-@define-color text #D4D4D4;
-@define-color base #1E1E1E;
+@define-color selected-text #1E1E0F;
+@define-color text #D4D4B4;
+@define-color base #1E1E0F;
 @define-color border #E742E7;
-@define-color foreground #D4D4D4;
-@define-color background #1E1E1E;
+@define-color foreground #D4D4B4;
+@define-color background #1E1E0F;
 
 window {
   /* keep default size, no background needed here */
